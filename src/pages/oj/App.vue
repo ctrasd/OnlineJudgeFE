@@ -7,7 +7,7 @@
       </transition>
       <div class="footer">
         <p v-html="website.website_footer"></p>
-        <p>Powered by <a href="https://github.com/QingdaoU/OnlineJudge">OnlineJudge</a>
+        <p>Copyright Chang'an University <a href="http://chdacm.club">ACM-CLUB</a>
           <span v-if="version">&nbsp; Version: {{ version }}</span>
         </p>
       </div>
